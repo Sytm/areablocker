@@ -1,0 +1,12 @@
+name: AreaBlocker
+version: 1.0-b1
+author: Sytm
+main: de.sytm.areablocker.AreaBlocker
+
+commands:
+ abcreate:
+ abremove:
+ ablist:
+ abmarker:
+ abpos1:
+ abpos2:
